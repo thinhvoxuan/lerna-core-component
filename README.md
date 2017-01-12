@@ -1,1 +1,1 @@
-# lerna-core-component
+# @thinhvoxuan/lerna-core-component
